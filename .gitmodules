@@ -1,0 +1,15 @@
+[submodule "html-css-tugas-02/memulai-dengan-html"]
+	path = html-css-tugas-02/memulai-dengan-html
+	url = https://github.com/mhafizhrh/memulai-dengan-html
+[submodule "html-css-tugas-02/judul-dan-paragraf"]
+	path = html-css-tugas-02/judul-dan-paragraf
+	url = https://github.com/mhafizhrh/judul-dan-paragraf
+[submodule "html-css-tugas-02/tautan"]
+	path = html-css-tugas-02/tautan
+	url = https://github.com/mhafizhrh/tautan
+[submodule "html-css-tugas-02/daftar"]
+	path = html-css-tugas-02/daftar
+	url = https://github.com/mhafizhrh/daftar
+[submodule "html-css-tugas-02/gambar"]
+	path = html-css-tugas-02/gambar
+	url = https://github.com/mhafizhrh/gambar
